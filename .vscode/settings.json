@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "/home/vision/anaconda3/envs/pytorch/bin/python", 
+    "python.linting.pylintArgs": ["--generate-members"]
+
+    // "python.linting.pylintPath": "/home/vision/anaconda3/pkgs/pylint-2.1.1-py37_0/bin/pylint",
+    // "python.linting.pylintEnabled": true,
+    // "python.linting.enabled": true
+}

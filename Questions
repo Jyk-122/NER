@@ -1,0 +1,4 @@
+1.用预训的embedding时，训练时要不要固定embedding？如果有新的char进到embeddiing，怎么训
+2.和预训的相比，只有一些中英文符号未出现在emb中，直接替换or加入新符号？
+3.是否需要补全，扩大batch
+4.
